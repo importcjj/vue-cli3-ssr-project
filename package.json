@@ -22,7 +22,7 @@
     "koa-morgan": "1.0.1",
     "koa-mount": "4.0.0",
     "koa-static": "5.0.0",
-    "vant": "1.6.5",
+    "vant": "3.0.14",
     "vue": "2.6.7",
     "vue-router": "3.0.2",
     "vue-server-renderer": "2.6.7",
